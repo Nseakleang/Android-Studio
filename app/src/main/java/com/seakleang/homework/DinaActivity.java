@@ -3,11 +3,11 @@ package com.seakleang.homework;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class DianaActivity extends AppCompatActivity {
+public class DinaActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_diana);
+        setContentView(R.layout.activity_dina);
     }
 }
